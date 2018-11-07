@@ -1,0 +1,49 @@
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\nunit.engine.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\nunit.engine.api.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\YahooTest.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\YahooTest.pdb
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\nunit.framework.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\WebDriver.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\WebDriver.Support.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\nunit.framework.pdb
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\nunit.framework.xml
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\WebDriver.xml
+C:\Users\bespa\source\repos\YahooTest\YahooTest\bin\Debug\WebDriver.Support.xml
+C:\Users\bespa\source\repos\YahooTest\YahooTest\obj\Debug\YahooTest.csproj.CoreCompileInputs.cache
+C:\Users\bespa\source\repos\YahooTest\YahooTest\obj\Debug\YahooTest.csproj.CopyComplete
+C:\Users\bespa\source\repos\YahooTest\YahooTest\obj\Debug\YahooTest.dll
+C:\Users\bespa\source\repos\YahooTest\YahooTest\obj\Debug\YahooTest.pdb
+C:\Users\bespa\source\repos\YahooTest\YahooTest\obj\Debug\YahooTest.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\nunit.engine.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\nunit.engine.api.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\YahooTest.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\YahooTest.pdb
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\nunit.framework.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\WebDriver.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\WebDriver.Support.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\nunit.framework.pdb
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\nunit.framework.xml
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\WebDriver.xml
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\bin\Debug\WebDriver.Support.xml
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\obj\Debug\YahooTest.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\obj\Debug\YahooTest.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\obj\Debug\YahooTest.dll
+D:\Programming\Visual Studio Projects\YahooTest\YahooTest\obj\Debug\YahooTest.pdb

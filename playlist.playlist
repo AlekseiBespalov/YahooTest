@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="YahooTest.YahooTest.YahooLogin" /><Add Test="YahooTest.YahooTest.YahooWriteMessage" /><Add Test="YahooTest.YahooTest.YahooSendMessage" /></Playlist>
